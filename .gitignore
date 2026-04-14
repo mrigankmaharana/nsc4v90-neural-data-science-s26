@@ -1,8 +1,4 @@
-# data artifacts
-data/
-figures/
-
-# python cache
+#python cache
 __pycache__/
 *.pyc
 
