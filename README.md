@@ -19,8 +19,7 @@ Focus: learn to organize, visualize, model, and test hypotheses on real neural d
 ```
 notebooks/   interactive analyses
 src/         reusable modules (loading, plotting, models, utils)
-data/        input datasets (not tracked)
-figures/     output plots and figures
+data/        input datasets
 ```
 
 ---
@@ -57,7 +56,6 @@ This avoids unnecessary compute unit burn on Colab.
 
 ## Final Project Deliverables
 
-* Reproducible notebook(s)
-* Modular code in `/src`
-* Figures in `/figures`
-* Report and/or slide deck
+Human EEG recording during visual recognition task
+THINGS EEG 2: https://www.sciencedirect.com/science/article/pii/S1053811922008758?via%3Dihub 
+
